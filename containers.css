@@ -1,0 +1,9 @@
+.container {
+  background-color: aliceblue; 
+  border-radius: 15px; 
+  padding: 20px; 
+  box-shadow: 5px 5px 10px black; 
+  margin: 30 px; 
+  text-align: center; 
+  font-family:"Verdana";
+}
